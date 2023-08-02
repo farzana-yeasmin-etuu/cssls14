@@ -1,0 +1,50 @@
+#division1{
+    height: 50px;
+    background-image: url('img/images.jpg');
+    
+    
+   
+    padding: 20px;
+    background-clip: padding-box;
+    
+    
+    
+}
+#div2{
+    background-image: url('img/images.jpg');
+    background-repeat: no-repeat;
+    border: 10px dotted white;
+    background-color: aqua;
+    padding: 20px;
+    background-clip:border-box;
+    
+    
+    
+}
+#div3{
+    
+    border: 10px dotted black;
+    background-color: aqua;
+    padding: 20px;
+    background-clip: content-box;
+    
+    
+    
+}
+p{  
+    height: 200px;
+    width:250px;
+    border: 20px solid red;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom:20px;
+    text-align: center;
+        
+        
+        
+        
+        
+        
+    
+}
